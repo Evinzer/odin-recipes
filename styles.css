@@ -1,0 +1,30 @@
+/* styles.css */
+.body {text-align: center;
+    background-color:grey;}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+
+  ol {
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+
+  /*Hamburger*/
+  p {text-align: center;
+font-size: 20px;}
+  
+.cheeseburger {height: 300px;}
+
+  
+
+
+
+
+
